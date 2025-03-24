@@ -9,16 +9,16 @@ Winner Announcement: The player with the higher dice value wins.
 Clean, Simple Interface: No buttons, just refresh the page to play again.
 
 ## Installation
-Clone this repository or download the ZIP file.
+* Clone this repository or download the ZIP file.
 
-git clone `https://github.com/sergiogonzalezch/DiceGame-Js-Vanilla.git`
+* git clone `https://github.com/sergiogonzalezch/DiceGame-Js-Vanilla.git`
 
-Open the index.html file in your browser.
+* Open the index.html file in your browser.
 
 ## Usage
-To roll the dice, refresh the page.
+* To roll the dice, refresh the page.
 
-The higher value of the two dice determines the winner.
+* The higher value of the two dice determines the winner.
 
 ## Customization
 You can modify the game by:
